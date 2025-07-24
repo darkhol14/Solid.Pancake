@@ -1,0 +1,726 @@
+img {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 20px;
+    left: 30px;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    font-size: 25px;
+    color: black;
+    padding-top: 30px;
+    padding-inline: 30px;
+}
+
+ li a {
+    text-decoration: none;
+    color: black;
+}
+
+ li a:hover {
+    color: grey;
+}
+
+.Intro {
+    margin-left: 42%;
+    margin-top: 5%;
+    font-size: 60px;
+}
+
+.Intro1{
+    margin-left: 24%;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.img2 {
+    position: absolute;
+    margin-top: 26%;
+    margin-left: 45%;
+}
+
+p {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+
+.September {
+   justify-content: center;
+   text-align: center;
+   font-size: 60px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-style: oblique;
+}
+
+.OraR {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.OraRdesc {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.OraRdescr {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Ghiozd {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Ghiozda {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Ghiozdan {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Flood {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Floodinfo {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Floodinfo1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.October {
+   justify-content: center;
+   text-align: center;
+   font-size: 60px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-style: oblique;
+}
+
+.FHer {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.ForHer1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.ForHer2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.November {
+   justify-content: center;
+   text-align: center;
+   font-size: 60px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-style: oblique;
+}
+
+.Purrpallete {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Purrpallete1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Purrpallete2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Fall {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Fall1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Fall2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Fall3 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.December {
+   justify-content: center;
+   text-align: center;
+   font-size: 60px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-style: oblique;
+}
+
+.Book {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Book1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Book2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Book3 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Chris {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Chris1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Chris2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Chris3 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.January {
+   justify-content: center;
+   text-align: center;
+   font-size: 60px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-style: oblique;
+}
+
+.Teddy {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Teddy1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Tm {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Tm1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Tm2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Tm3 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.February {
+   justify-content: center;
+   text-align: center;
+   font-size: 60px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-style: oblique;
+}
+
+.Love {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Love1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Love2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Drago {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Drago1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Drago2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.March {
+   justify-content: center;
+   text-align: center;
+   font-size: 60px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-style: oblique;
+}
+
+.Pottery {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Pottery1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Pottery2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+
+.April {
+   justify-content: center;
+   text-align: center;
+   font-size: 60px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-style: oblique;
+}
+
+.Wings {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Wings1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Wings2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.May {
+   justify-content: center;
+   text-align: center;
+   font-size: 60px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-style: oblique;
+}
+
+.Kind {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Kind1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Kind2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Kind3 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Kind4 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Kind5 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Bingo {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Bingo1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Bingo2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Bingo3 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Bingo4 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Paint {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Paint1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Paint2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Paint3 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Robo {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Robo1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Robo2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Robo3 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Robo4 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.Green {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Green1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Green2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.June {
+   justify-content: center;
+   text-align: center;
+   font-size: 60px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-style: oblique;
+}
+
+.Gleam {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Gleam1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Gleam2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.July {
+   justify-content: center;
+   text-align: center;
+   font-size: 60px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-style: oblique;
+}
+
+.Sunet {
+    justify-content: left;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+.Sunet1 {
+    justify-content: left;
+    text-align: left;
+    max-width: 550px;
+    margin-left: 20px;
+}
+
+.Sunet2 {
+    justify-content: left;
+    text-align: left;
+    max-width: 600px;
+    margin-left: 20px;
+}
+
+.endpage1 {
+    position: absolute;
+    top: 1932%;
+    left: 44%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.endpage2 {
+    position: absolute;
+    top: 1935%;
+    left: 43%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+.BacktoTop {
+    position: absolute;
+    top: 1915%;
+    left: 41.5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-style: italic;
+    margin-bottom: 5px;
+    text-decoration: none;
+    }
+
+.link1{
+    color: black;
+}
